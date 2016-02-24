@@ -16,7 +16,7 @@ At the end of the second class, it will be turned in for a grade. Requirements f
 		Navigators:
 		 Making most of the suggestions & tend to have more confidence with the task. Navigator should always ask before taking the keyboard. 
 
-#####Assigned Pairs:
+##### Assigned Pairs:
 * Giselle & James
 * Sam & John
 * Leah, Andy & Richard 
@@ -53,3 +53,34 @@ At the end the number of tries needed should be printed. I counts only as one tr
 		Show how many guesses the user has taken so far
 
 		Ask if the user would like to play again before ending the program
+
+
+
+***
+
+### PHASE TWO
+#### Brief
+Implement the same logic of your guess_num app into a web application.
+
+
+
+Use the greeting app as reference, though feel free to experiment. 
+
+#### Requirements
+
+#Index page should render instructions to enter a number and a form to do so.
+
+#After submitting the form, with a number, the user should be presented with a response: either they guessed too high, too low or were correct!
+
+#If a user had an incorrect guess, they should be given a way to guess again.
+
+
+##### Note: 
+Be mindful with the way your logic is setup with your routes. How will you continue a round so that the number to guess remains the same until it is guessed correctly? 
+
+
+
+### Step One
+Plan! Breakdown the steps of how you would implement this program.
+
+Make this plan as detailed as possible. **Your plan will be a big part of your grad for this phase of the project.**
