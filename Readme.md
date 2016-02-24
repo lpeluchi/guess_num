@@ -1,7 +1,7 @@
 ## Guessing Game Application
 
-* Phase One: An interactive terminal application
-* Phase Two: A Web Application with Sinatra
+* **Phase One:** An interactive terminal application
+* **Phase Two:** A Web Application with Sinatra
 
 ###NOTE:
 This, along with implementing it into a web app, will be done over two class periods.
@@ -42,14 +42,14 @@ At the end the number of tries needed should be printed. I counts only as one tr
 	User should be prompted with instruction to enter a number
 
 	Upon entering an number, user should see one of three things:
-		*They were wrong & guessed too high
-		*They were wrong & guessed too log
-		*Or, they won!
+		-They were wrong & guessed too high
+		-They were wrong & guessed too log
+		-Or, they won!
 
 	The game should keep going until the user guesses the number correctly
 
 
 #### Bonus
-		*Show how many guesses the user has taken so far
+		Show how many guesses the user has taken so far
 
-		*Ask if the user would like to play again before ending the program
+		Ask if the user would like to play again before ending the program
