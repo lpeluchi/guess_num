@@ -68,11 +68,11 @@ Use the greeting app as reference, though feel free to experiment.
 
 #### Requirements
 
-#Index page should render instructions to enter a number and a form to do so.
+Index page should render instructions to enter a number and a form to do so.
 
-#After submitting the form, with a number, the user should be presented with a response: either they guessed too high, too low or were correct!
+After submitting the form, with a number, the user should be presented with a response: either they guessed too high, too low or were correct!
 
-#If a user had an incorrect guess, they should be given a way to guess again.
+If a user had an incorrect guess, they should be given a way to guess again.
 
 
 ##### Note: 
@@ -84,3 +84,13 @@ Be mindful with the way your logic is setup with your routes. How will you conti
 Plan! Breakdown the steps of how you would implement this program.
 
 Make this plan as detailed as possible. **Your plan will be a big part of your grad for this phase of the project.**
+
+### Step Two
+Add your class to the application 
+
+### Step Three
+Define your routes & create any additional erb pages you'll need
+
+### Step Four: **BONUS**
+Get all the moving parts to connect and work with each other. This is going to take the longest. 
+Having a complete application isn't required. **HOWEVER**, it should be obvious what your intentions and logic are. It should mostly be setup and partially working. 
