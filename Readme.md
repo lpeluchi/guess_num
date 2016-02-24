@@ -16,10 +16,10 @@ At the end of the second class, it will be turned in for a grade. Requirements f
 		Navigators:
 		 Making most of the suggestions & tend to have more confidence with the task. Navigator should always ask before taking the keyboard. 
 
-		Assigned Pairs:
-		* Giselle & James
-		* Sam & John
-		* Leah, Andy & Richard 
+#####Assigned Pairs:
+* Giselle & James
+* Sam & John
+* Leah, Andy & Richard 
 
 ***
 
